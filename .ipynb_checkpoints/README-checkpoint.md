@@ -1,6 +1,3 @@
-<div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m10/lms/img/banner.jpg" alt="lesson banner" />
-
-
 # sql_alchemy_challenge
 
 5/21 created 'measurement' class. used sunny_hours exercise from day 2 lecture for reference.
@@ -24,5 +21,3 @@ https://datagy.io/histogram-python/
 https://matplotlib.org/stable/tutorials/intermediate/tight_layout_guide.html
 
 5/22
-begin app.py.
-set up database and imported dependencies.
